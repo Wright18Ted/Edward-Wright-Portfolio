@@ -7,6 +7,6 @@ The Terminal Café App is a command‑line ordering system built in Python. Deve
 
 This project highlights fundamental programming concepts like data structures, control flow, functions, and error handling. It also features a modular design and uses a PostgreSQL database deployed on a RHEL virtual machine for data persistence.
 
-LINK TO PROJECT: https://github.com/Wright18Ted/Cafe-CLI-Pipline-PY-to-DB 
+## LINK TO PROJECT: https://github.com/Wright18Ted/Cafe-CLI-Pipline-PY-to-DB 
 
 
