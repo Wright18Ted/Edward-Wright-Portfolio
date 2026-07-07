@@ -1,5 +1,5 @@
 # Edward-Wright-Portfolio
-Edward Wright's portfolio, featuring links to various projects in the ReadME.
+Edward Wright’s DE portfolio, serving as a central directory with direct links to individual project repositories detailed in the README.
 
 # Cafe-CLI-Pipline-PY-to-DB
 
@@ -17,7 +17,7 @@ LINK TO PROJECT: https://github.com/Wright18Ted/ETL-GenerationUK-TeamProject-2
 
 # API WEATHER CLI APP 
 
-A interactive Command Line Interface (CLI) application built in Python that fetches and displays real-time weather metrics for a few major UK cities. This project was built to practice and demonstrate hands-on skills with external API integration, data extraction, and handling live data in Python without the overhead of a heavy graphical user interface.
+A interactive Command Line Interface (CLI) application built in Python that fetches and displays real-time weather metrics for a few major UK cities. This project was built to practice and demonstrate hands on skills with external API integration, data extraction, and handling live data in Python without the overhead of a heavy graphical user interface.
 
 LINK TO PROJECT: https://github.com/Wright18Ted/API-WEATHER-CLI-APP 
 
