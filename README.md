@@ -23,5 +23,3 @@ LINK TO PROJECT: https://github.com/Wright18Ted/API-WEATHER-CLI-APP
 
 
 
-
-
