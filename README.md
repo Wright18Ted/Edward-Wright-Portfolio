@@ -1,5 +1,5 @@
 # Edward-Wright-Portfolio
-Edward Wright’s DE portfolio, serving as a central directory with direct links to individual project repositories detailed in the README.
+Edward Wright’s DE portfolio, serving as a central repository with direct links to individual project repos detailed in the README
 
 # Cafe-CLI-Pipline-PY-to-DB
 
