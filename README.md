@@ -1,13 +1,12 @@
 # Edward-Wright-Portfolio
 Edward Wright’s DE portfolio, serving as a central repository with direct links to individual project repos detailed in the README
 
-# Cafe-CLI-Pipline-PY-to-DB
+# All in One Desktop Travel Currency Converter ETL
 
-The Terminal Café App is a command‑line ordering system built in Python. Developed as part of the Generations UK Data Engineering Bootcamp, it lets users browse a menu, build an order, calculate totals, and print a receipt—all directly in the terminal.
+Built an all-in-one Python (Tkinter) desktop currency converter tailored for high-volume retail environments. Designed around a streamlined single-page UI, the application pairs a real-time ingestion and processing calculator with an analytics dashboard, allowing staff to perform rapid daily exchanges while reviewing transaction histories concurrently. Under the hood, it features an automated data pipeline that pairs flat-file CSV logging with a local PostgreSQL database integration to ensure accurate tracking and reliable storage.
 
-This project highlights fundamental programming concepts like data structures, control flow, functions, and error handling. It also features a modular design and uses a PostgreSQL database deployed on a RHEL virtual machine for data persistence.
-
-LINK TO PROJECT: https://github.com/Wright18Ted/Cafe-CLI-Pipline-PY-to-DB 
+LINK TO PROJECT: https://github.com/Wright18Ted/Currency-Converter-Desktop-App- 
+GO READ THE README.md: https://github.com/Wright18Ted/Currency-Converter-Desktop-App-/blob/main/README.md 
 
 # ETL-GenerationUK-TeamProject-2 / Espresso_Yourself Team Project
 
