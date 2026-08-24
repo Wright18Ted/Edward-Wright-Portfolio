@@ -8,6 +8,14 @@ Built an all-in-one Python (Tkinter) desktop currency converter tailored for hig
 * LINK TO PROJECT: https://github.com/Wright18Ted/Currency-Converter-Desktop-App- 
 * GO READ THE README.md: https://github.com/Wright18Ted/Currency-Converter-Desktop-App-/blob/main/README.md 
 
+# Cafe-CLI-Pipline-PY-to-DB
+
+The Terminal Café App is a command‑line ordering system built in Python. Developed as part of the Generations UK Data Engineering Bootcamp, it lets users browse a menu, build an order, calculate totals, and print a receipt—all directly in the terminal.
+
+This project highlights fundamental programming concepts like data structures, control flow, functions, and error handling. It also features a modular design and uses a PostgreSQL database deployed on a RHEL virtual machine for data persistence.
+
+* LINK TO PROJECT: https://github.com/Wright18Ted/Cafe-CLI-Pipline-PY-to-DB
+
 # ETL-GenerationUK-TeamProject-2 / Espresso_Yourself Team Project
 
 A Data Engineering Team-Project for Generations UK Data Engineer Bootcamp, Developed by Team Espresso_Yourself in DE-NAT4
